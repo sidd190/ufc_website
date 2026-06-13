@@ -24,6 +24,12 @@ const defaultMembers: Member[] = [
     description: "The One Piece... THE ONE PIECE IS REAL!!."
   },
   {
+    name: "Moksh",
+    role: "Co-Lead",
+    img: "/team-images/moksh.jpg",
+    description: "Organizing events and mentoring students on AIML projects."
+  },
+  {
     name: "Dhruv Sharma",
     role: "Tech Lead",
     img: "/team-images/dhruv.jpg",
@@ -70,12 +76,6 @@ const defaultMembers: Member[] = [
     role: "Core Member",
     img: "/team-images/prithvi .jpg",
     description: "Playing a vital role in core project development and helping maintain high standards across the community."
-  },
-  {
-    name: "Moksh",
-    role: "Core Member",
-    img: "/team-images/moksh.jpg",
-    description: "Wanderer."
   },
   {
     name: "Piyush Gupta",
