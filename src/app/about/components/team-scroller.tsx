@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from "react"
 import Image from "next/image"
 import gsap from "gsap"
 import { ScrollTrigger } from "gsap/ScrollTrigger"
-import { cn } from "@/lib/utils"
+import { cn } from "@/shared/utils"
 import { TiltedCard } from "@/components/ui/tilted-card"
 
 gsap.registerPlugin(ScrollTrigger)
